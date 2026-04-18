@@ -1,4 +1,5 @@
 # Neuron - Your Living Lexicon 🧠
+<img width="500" height="500" alt="neuron-preview" src="https://github.com/user-attachments/assets/629edfb7-238a-49f0-bd88-8329299ef111" />
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](#) [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-lightgrey.svg)](#)
 
