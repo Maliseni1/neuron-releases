@@ -1,6 +1,7 @@
 # Neuron Lexicon v2.0.0 🧠
 
-&lt;img width="500" height="500" alt="neuron-preview" src="https://github.com/user-attachments/assets/629edfb7-238a-49f0-bd88-8329299ef111" /&gt;
+<img width="500" height="500" alt="neuron-logo" src="https://github.com/user-attachments/assets/0efe83a9-7290-4314-95e8-2d625be6bd4f" />
+
 
 [![Version](https://img.shields.io/badge/version-2.0.0-purple.svg)](#) [![Platform](https://img.shields.io/badge/platform-Android-lightgrey.svg)](#) [![Expo](https://img.shields.io/badge/built%20with-Expo%20SDK%2054-000020.svg)](https://expo.dev)
 
